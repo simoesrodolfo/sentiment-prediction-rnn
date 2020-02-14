@@ -1,0 +1,8 @@
+.idea
+*.iml
+*config.properties
+target
+/scripts/config.py
+*.log
+*.pyc
+/.ipynb_checkpoints
